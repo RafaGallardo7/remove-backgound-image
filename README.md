@@ -8,7 +8,8 @@
 ```python3 -m flask run```
 
 ### These is our input
-![Screenshot](img.jpg)
+<!-- ![Screenshot](img.jpg) -->
+<img src="img.jpg" height="400" width="auto">
 
 
 ### These is our output
